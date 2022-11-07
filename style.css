@@ -1,0 +1,88 @@
+body{
+    background-color:  #f8efef;
+}
+
+.janela{
+    background-color:#ffffff;
+    width: 600px;
+    height: 700px;
+    position: fixed; left: 400px; top: 100px;
+    border-radius: 5%;
+    color: #2c2e56;
+}
+
+.fundo{
+    width: 400px;
+    height: 700px;
+    position: fixed; left: 900px; top: 120px;
+    border-radius: 5%;
+}
+
+.texto{
+    position: fixed; left: 480px; top: 250px;
+    color: #2c2e56;
+}
+
+.email{
+    border-radius: 5px;
+    height: 40px;
+    width: 300px;
+    position: fixed; left: 480px; top: 350px;
+    border-color:rgb(168, 168, 224);
+}
+
+.fpass{
+    color: #046586;
+    position: fixed; left:  480px; top: 450px;
+}
+
+.next{
+    position: fixed; left: 670px; top: 430px;
+    height: 55px;
+    width: 120px;
+    border-radius: 8px;
+    background-color:#046586;
+    color: white;
+    border-color: white;
+}
+
+.linha{
+    margin-top: 350px;
+    width: 400px;
+    position: fixed; left: 450px;
+    color: #046586;
+    opacity: 50%;
+}
+
+.opcaologin{
+    position: fixed; left: 600px; bottom: 300px;
+    color: gray;
+    opacity: 70%;
+}
+
+.logoface{
+    width: 30px;
+}
+
+.logogoogle{
+    width: 30px;
+}
+
+.loginfacebook{
+    background-color: white;
+    position: fixed; left: 500px; bottom: 200px;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.logingoogle{
+    background-color: white;
+    position: fixed; left: 650px; bottom: 200px;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.criarconta{
+    position: fixed; left: 530px; bottom: 130px;
+    font-size: 14px;
+}
