@@ -2,7 +2,7 @@
 
 Protótipo:
 
-![image](https://uidesigndaily.com/posts/figma-log-in-authentication-sign-up-modal-pop-card-day-1097)
+![image](https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1097/day_1097.png)
 
 <h2> Projeto de implementação de uma tela de login. </h2>
 
